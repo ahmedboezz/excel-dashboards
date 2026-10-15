@@ -39,3 +39,6 @@ More projects: [Power BI](https://github.com/ahmedsalamsali/powerbi-dashboards) 
 
 ---
 **Ahmed Abdulsalam** · Data Analyst · Jeddah, Saudi Arabia · a@ezzprx.com · [LinkedIn](https://linkedin.com/in/ahmedboezz)
+
+---
+© 2026 Ahmed Abdulsalam. All rights reserved. See [LICENSE](LICENSE).
