@@ -4,7 +4,7 @@
 
 > A 6-department general hospital wants to track patient flow and quality. Leadership asks whether the 2025 ER triage project worked, where beds are under pressure, and which patients are coming back within 30 days.
 
-*The Power BI version of this project is in [powerbi-dashboards](https://github.com/ahmedsalamsali/powerbi-dashboards/tree/main/03-hospital-performance).*
+*The Power BI version of this project is in [powerbi-dashboards](https://github.com/ahmedboezz/powerbi-dashboards/tree/main/03-hospital-performance).*
 
 ## Excel dashboard
 ![Excel dashboard](screenshots/excel_dashboard.png)

@@ -4,7 +4,7 @@
 
 > An online store selling across a website, a mobile app and a marketplace wants one view of sales performance. Management asks where growth comes from, which categories and discounts hurt profit, and why customers return products.
 
-*The Power BI version of this project is in [powerbi-dashboards](https://github.com/ahmedsalamsali/powerbi-dashboards/tree/main/01-ecommerce-sales).*
+*The Power BI version of this project is in [powerbi-dashboards](https://github.com/ahmedboezz/powerbi-dashboards/tree/main/01-ecommerce-sales).*
 
 ## Excel dashboard
 ![Excel dashboard](screenshots/excel_dashboard.png)

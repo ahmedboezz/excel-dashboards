@@ -35,7 +35,7 @@ Six interactive Excel dashboards, one per industry. Each workbook goes from a cl
 ### Restaurant Chain Sales & Operations
 ![Restaurant Chain Sales & Operations](06-restaurant-chain-sales/screenshots/excel_dashboard.png)
 
-More projects: [Power BI](https://github.com/ahmedsalamsali/powerbi-dashboards) · [SQL](https://github.com/ahmedsalamsali/sql-projects) · [Python](https://github.com/ahmedsalamsali/python-data-analysis)
+More projects: [Power BI](https://github.com/ahmedboezz/powerbi-dashboards) · [SQL](https://github.com/ahmedboezz/sql-projects) · [Python](https://github.com/ahmedboezz/python-data-analysis)
 
 ---
 **Ahmed Abdulsalam** · Data Analyst · Jeddah, Saudi Arabia · a@ezzprx.com · [LinkedIn](https://linkedin.com/in/ahmedboezz)

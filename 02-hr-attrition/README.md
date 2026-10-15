@@ -4,7 +4,7 @@
 
 > A 1,650-employee services company saw resignations climb and wants to know who is leaving, why, and what it costs. HR needs a dashboard that management can filter by department, level and work mode.
 
-*The Power BI version of this project is in [powerbi-dashboards](https://github.com/ahmedsalamsali/powerbi-dashboards/tree/main/02-hr-attrition).*
+*The Power BI version of this project is in [powerbi-dashboards](https://github.com/ahmedboezz/powerbi-dashboards/tree/main/02-hr-attrition).*
 
 ## Excel dashboard
 ![Excel dashboard](screenshots/excel_dashboard.png)

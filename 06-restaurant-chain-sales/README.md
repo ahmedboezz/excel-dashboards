@@ -4,7 +4,7 @@
 
 > A casual-dining chain with six branches (about 950 orders a day) wants one dashboard for owners and branch managers: which branches and day parts drive sales, how fast delivery is growing, and where food cost and kitchen speed are out of line.
 
-*The Power BI version of this project is in [powerbi-dashboards](https://github.com/ahmedsalamsali/powerbi-dashboards/tree/main/06-restaurant-chain-sales).*
+*The Power BI version of this project is in [powerbi-dashboards](https://github.com/ahmedboezz/powerbi-dashboards/tree/main/06-restaurant-chain-sales).*
 
 ## Excel dashboard
 ![Excel dashboard](screenshots/excel_dashboard.png)

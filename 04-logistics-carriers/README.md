@@ -4,7 +4,7 @@
 
 > A distributor ships from three distribution centres with five carriers. Customer complaints about late and damaged deliveries are rising, and procurement must decide which carriers to keep for 2026.
 
-*The Power BI version of this project is in [powerbi-dashboards](https://github.com/ahmedsalamsali/powerbi-dashboards/tree/main/04-logistics-carriers).*
+*The Power BI version of this project is in [powerbi-dashboards](https://github.com/ahmedboezz/powerbi-dashboards/tree/main/04-logistics-carriers).*
 
 ## Excel dashboard
 ![Excel dashboard](screenshots/excel_dashboard.png)

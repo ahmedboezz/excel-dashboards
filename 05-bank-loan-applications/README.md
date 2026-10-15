@@ -4,7 +4,7 @@
 
 > A retail bank's lending team wants to understand its loan origination funnel: how many applications arrive by channel, how many are approved, why the rest are rejected, and how fast decisions are made.
 
-*The Power BI version of this project is in [powerbi-dashboards](https://github.com/ahmedsalamsali/powerbi-dashboards/tree/main/05-bank-loan-applications).*
+*The Power BI version of this project is in [powerbi-dashboards](https://github.com/ahmedboezz/powerbi-dashboards/tree/main/05-bank-loan-applications).*
 
 ## Excel dashboard
 ![Excel dashboard](screenshots/excel_dashboard.png)
